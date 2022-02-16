@@ -1,5 +1,9 @@
 # Master-degree-thesis-2015-UESTC
-基于高斯混合模型的EM算法及其应用研究 (硕士论文）(A Master Dissertation Submitted to University of Electronic Science and Technology of China, 2015)
+论文题目：基于高斯混合模型的EM算法及其应用研究
+
+>电子科技大学, 硕士论文, 2015.
+>
+>https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201601&filename=1015711236.nh&uniplatform=NZKPT&v=wAwkGweZ23URuizOOQpeSFOQB9QvquC4UZxiC0t_znSRbRS06vNfIchJdV7uu8ly
 
 摘要： 高斯混合模型（GMM）被广泛应用于模式识别、计算机视觉、机器学习、数据挖掘、生物信息学等不同领域。 在这些领域里，它被用来完成诸如图像分割、聚类、概率密度函数的构建等任务。
     通常，人们用期望最大化（EM）算法求解GMM模型中的参数。尽管EM是一种非常有效的算法，且能保证收敛。但EM算法存在两个还没有被完全解决的问题：（1）因为EM只能保证收敛到局部最优点，所以EM算法对初始条件非常敏感；（2）用户需要预先设置GMM中高斯成员的个数，而在没有任何先验信息的情况下，如何设置高斯成员的个数也通常非常棘手。
