@@ -17,3 +17,7 @@ In the 1st part, we seek to solve the problems that EM algorithm has. This paper
 In the 2nd part, we seek to inherit the merit of EM, in order to provide a more general learning model to help people solve problems in diverse fields. Firstly, this paper pointed out that EM is in nature a heuristic learning process, and extracted from EM a general heuristic learning model. In order to demonstrate its effectiveness, this learning mode was then applied to several specific tasks as tracking, perceptual organization and contour detection, which to some degree demonstrated this learning model can be a general unsupervised learning model and can be of general meaning.
 
 # Code: in preparation...
+# Figures （a demo）
+
+![image](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif)
+ 
