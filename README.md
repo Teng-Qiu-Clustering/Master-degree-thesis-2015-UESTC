@@ -20,5 +20,7 @@ In the 2nd part, we seek to inherit the merit of EM, in order to provide a more 
 # Figures （demos for the principle）
 
 ![image](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif)
+
+
  
 ![image](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif)
