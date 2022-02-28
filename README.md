@@ -1,7 +1,10 @@
 # Master-degree-thesis-2015-UESTC
-论文题目：基于高斯混合模型的EM算法及其应用研究
 
->电子科技大学, 硕士论文, 2015.
+![Fig.1](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif) ![Fig.2](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif) 
+
+# 论文题目：基于高斯混合模型的EM算法及其应用研究
+
+>**电子科技大学, 硕士论文, 2015.**
 >
 >https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201601&filename=1015711236.nh&uniplatform=NZKPT&v=wAwkGweZ23URuizOOQpeSFOQB9QvquC4UZxiC0t_znSRbRS06vNfIchJdV7uu8ly
 
@@ -17,10 +20,4 @@ In the 1st part, we seek to solve the problems that EM algorithm has. This paper
 In the 2nd part, we seek to inherit the merit of EM, in order to provide a more general learning model to help people solve problems in diverse fields. Firstly, this paper pointed out that EM is in nature a heuristic learning process, and extracted from EM a general heuristic learning model. In order to demonstrate its effectiveness, this learning mode was then applied to several specific tasks as tracking, perceptual organization and contour detection, which to some degree demonstrated this learning model can be a general unsupervised learning model and can be of general meaning.
 
 # Code: in preparation...
-# Figures （demos for the principle）
 
-![image](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif)
-
-
- 
-![image](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif)
