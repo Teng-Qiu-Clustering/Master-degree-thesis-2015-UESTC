@@ -1,6 +1,6 @@
 # Master-degree-thesis-2015-UESTC
 
-![Fig.1](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif) ![Fig.2](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif) 
+![Fig.1](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif)![Fig.2](https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif) 
 
 # 论文题目：基于高斯混合模型的EM算法及其应用研究
 
