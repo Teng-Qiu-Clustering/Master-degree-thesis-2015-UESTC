@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig.gif" width="280" height="205"><img src="https://github.com/Teng-Qiu-Clustering/Master-degree-thesis-2015-UESTC/blob/main/dynamic_fig_new.gif" width="280" height="205">
 
-# 论文题目：基于高斯混合模型的EM算法及其应用研究
+# 论文题目：基于高斯混合模型的EM算法及其应用研究 (Title: EM Algorithm and its Application Research based on Gaussian Mixture Model)
 
 >**电子科技大学, 硕士论文, 2015.**
 >
